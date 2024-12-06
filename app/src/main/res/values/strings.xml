@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">c14220041_taskList</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="edit_todo">Edit TODO</string>
+</resources>
